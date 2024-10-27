@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\wendy\.gradle\caches\transforms-3\b98e6b9fdda11fe260c03c8fafde63ff\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wendy\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\wendy\.gradle\caches\transforms-3\16349600783fa4c0732e670111179c78\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\fdf82ea01639be3b378e3d8ae26d9fb7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\3504aa656f9d00f9e2cadffb281d01d0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\7e09f154def15ab17348089459421b07\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\wendy\.gradle\caches\transforms-3\c2943c766a971b30133f49407ff21e60\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\3f7821781e94f81fee824a3c8b7db309\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\a2242387247aa8432093d2a01af71dba\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\7504ccfe757c3b8251dde7494000f3ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wendy\.gradle\caches\transforms-3\82e137d0499d09a449d2463aa5974f15\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\bad80395f89f9c8d7e39c1b2b41b5525\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\ec79f9c58b64c498772908f9ba77a8d1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\fbc7e087a85ee6ec45b41cbf6736a7e8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\70815d79092ecd9fc6461dffc8a2c5cb\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\653456c4a641da75de4b4a9638a8683c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\26a7debbd02593a460c2da8b73b1a684\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\9666b4e4af60ed58b0ce2300b5e688b4\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\07202513350ea83f4d6257994e0c248b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\b2ba3d5ed78786779fe2371dcc849edb\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\wendy\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\wendy\.gradle\caches\transforms-3\428407af95293b899efae517a280444a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\wendy\.gradle\caches\transforms-3\0dc6dc78734c4020dab75f9829870687\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\caacbca232305dc5be1f7f468063d861\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\70be178243629fefb8ce9adf6a292e12\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\c37e8f3de07728d5aa1483e75a377c93\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\30559646bdc9f3290097ba378eb99203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\b618f929228947d1fd03b4a852d85b00\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wendy\.gradle\caches\transforms-3\1cb4c19a0747461aa679ba30d4bab2d0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\wendy\.gradle\caches\transforms-3\9431a3100b3f63fcde039d72eb8ba536\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\wendy\.gradle\caches\transforms-3\4e4b987f33dc68fb28188a73908499f7\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\78759bb9014001eef7850905c2fbbc44\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:5:5-41:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\wendy\.gradle\caches\transforms-3\b98e6b9fdda11fe260c03c8fafde63ff\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\wendy\.gradle\caches\transforms-3\b98e6b9fdda11fe260c03c8fafde63ff\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wendy\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wendy\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\wendy\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\wendy\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\wendy\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:11:9-52
+activity#com.example.myapplication9.song1
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:13:13-34
+activity#com.example.myapplication9.song2
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:16:13-34
+activity#com.example.myapplication9.song3
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:19:13-34
+activity#com.example.myapplication9.song4
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:22:13-34
+activity#com.example.myapplication9.song5
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:25:13-34
+activity#com.example.myapplication9.MainActivity
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:exported
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:33:27-74
+service#com.example.myapplication9.MusicPlayer1
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:36:9-49
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:36:18-46
+service#com.example.myapplication9.MusicPlayer2
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:37:9-49
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:37:18-46
+service#com.example.myapplication9.MusicPlayer3
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:38:9-49
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:38:18-46
+service#com.example.myapplication9.MusicPlayer4
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:39:9-49
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:39:18-46
+service#com.example.myapplication9.MusicPlayer5
+ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:40:9-49
+	android:name
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml:40:18-46
+uses-sdk
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\wendy\.gradle\caches\transforms-3\b98e6b9fdda11fe260c03c8fafde63ff\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\wendy\.gradle\caches\transforms-3\b98e6b9fdda11fe260c03c8fafde63ff\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wendy\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wendy\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\wendy\.gradle\caches\transforms-3\16349600783fa4c0732e670111179c78\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\wendy\.gradle\caches\transforms-3\16349600783fa4c0732e670111179c78\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\fdf82ea01639be3b378e3d8ae26d9fb7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\fdf82ea01639be3b378e3d8ae26d9fb7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\3504aa656f9d00f9e2cadffb281d01d0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\3504aa656f9d00f9e2cadffb281d01d0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\7e09f154def15ab17348089459421b07\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\7e09f154def15ab17348089459421b07\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\wendy\.gradle\caches\transforms-3\c2943c766a971b30133f49407ff21e60\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\wendy\.gradle\caches\transforms-3\c2943c766a971b30133f49407ff21e60\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\3f7821781e94f81fee824a3c8b7db309\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\3f7821781e94f81fee824a3c8b7db309\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\a2242387247aa8432093d2a01af71dba\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\a2242387247aa8432093d2a01af71dba\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\7504ccfe757c3b8251dde7494000f3ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\7504ccfe757c3b8251dde7494000f3ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wendy\.gradle\caches\transforms-3\82e137d0499d09a449d2463aa5974f15\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wendy\.gradle\caches\transforms-3\82e137d0499d09a449d2463aa5974f15\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\bad80395f89f9c8d7e39c1b2b41b5525\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\bad80395f89f9c8d7e39c1b2b41b5525\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\ec79f9c58b64c498772908f9ba77a8d1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\ec79f9c58b64c498772908f9ba77a8d1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\fbc7e087a85ee6ec45b41cbf6736a7e8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\fbc7e087a85ee6ec45b41cbf6736a7e8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\70815d79092ecd9fc6461dffc8a2c5cb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\70815d79092ecd9fc6461dffc8a2c5cb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\653456c4a641da75de4b4a9638a8683c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\653456c4a641da75de4b4a9638a8683c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\26a7debbd02593a460c2da8b73b1a684\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\26a7debbd02593a460c2da8b73b1a684\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\9666b4e4af60ed58b0ce2300b5e688b4\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\9666b4e4af60ed58b0ce2300b5e688b4\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\07202513350ea83f4d6257994e0c248b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\07202513350ea83f4d6257994e0c248b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\b2ba3d5ed78786779fe2371dcc849edb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\b2ba3d5ed78786779fe2371dcc849edb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\wendy\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\wendy\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wendy\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\wendy\.gradle\caches\transforms-3\428407af95293b899efae517a280444a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\wendy\.gradle\caches\transforms-3\428407af95293b899efae517a280444a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\wendy\.gradle\caches\transforms-3\0dc6dc78734c4020dab75f9829870687\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\wendy\.gradle\caches\transforms-3\0dc6dc78734c4020dab75f9829870687\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\caacbca232305dc5be1f7f468063d861\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\caacbca232305dc5be1f7f468063d861\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\70be178243629fefb8ce9adf6a292e12\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\70be178243629fefb8ce9adf6a292e12\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\c37e8f3de07728d5aa1483e75a377c93\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\c37e8f3de07728d5aa1483e75a377c93\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\30559646bdc9f3290097ba378eb99203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\30559646bdc9f3290097ba378eb99203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\b618f929228947d1fd03b4a852d85b00\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\b618f929228947d1fd03b4a852d85b00\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wendy\.gradle\caches\transforms-3\1cb4c19a0747461aa679ba30d4bab2d0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wendy\.gradle\caches\transforms-3\1cb4c19a0747461aa679ba30d4bab2d0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\wendy\.gradle\caches\transforms-3\9431a3100b3f63fcde039d72eb8ba536\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\wendy\.gradle\caches\transforms-3\9431a3100b3f63fcde039d72eb8ba536\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\wendy\.gradle\caches\transforms-3\4e4b987f33dc68fb28188a73908499f7\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\wendy\.gradle\caches\transforms-3\4e4b987f33dc68fb28188a73908499f7\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\78759bb9014001eef7850905c2fbbc44\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wendy\.gradle\caches\transforms-3\78759bb9014001eef7850905c2fbbc44\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+		ADDED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
+		INJECTED from D:\wendy\study\others\android_app\MyApplication9\app\src\main\AndroidManifest.xml
