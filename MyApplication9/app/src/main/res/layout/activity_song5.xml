@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".song5"
+    android:background="@drawable/bg"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The Greatest Show"
+        android:gravity="center"
+        android:layout_marginTop="25dp"
+        android:textColor="#448AFF"
+        android:textSize="48sp"
+        android:fontFamily="@font/hanyi"/>
+
+    <ImageView
+        android:id="@+id/iv_cover5"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/img_5" />
+
+    <SeekBar
+        android:id="@+id/sb5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:id="@+id/tv_progress5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00:00"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:fontFamily="@font/hanyi"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/tv_total5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="04:50"
+            android:layout_alignParentRight="true"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/hanyi"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="5dp">
+        <Button
+            android:id="@+id/btn_play5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="开始"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:textColor="@color/buttonword"
+            android:background="@color/buttonbackground"
+            android:fontFamily="@font/hanyi"/>
+        <Button
+            android:id="@+id/btn_pause5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="暂停"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:textColor="@color/buttonword"
+            android:background="@color/buttonbackground"
+            android:fontFamily="@font/hanyi"/>
+        <Button
+            android:id="@+id/btn_continue5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="继续"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:textColor="@color/buttonword"
+            android:background="@color/buttonbackground"
+            android:fontFamily="@font/hanyi"/>
+        <Button
+            android:id="@+id/btn_exit5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="退出"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:textColor="@color/buttonword"
+            android:background="@color/buttonbackground"
+            android:fontFamily="@font/hanyi"/>
+
+    </LinearLayout>
+
+</LinearLayout>

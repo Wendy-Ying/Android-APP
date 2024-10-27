@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bg2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="音乐播放器"
+        android:textSize="60dp"
+        android:textColor="#6200EA"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:fontFamily="@font/hanyi"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:background="#40FFFFFF"/>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</LinearLayout>
