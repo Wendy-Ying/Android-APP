@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFEF8"/> <!-- 按钮的背景颜色 -->
+    <corners android:radius="30dp"/> <!-- 圆角半径，您可以调整这个值以控制圆角的大小 -->
+</shape>
